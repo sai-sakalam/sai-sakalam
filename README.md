@@ -5,10 +5,11 @@ Data Engineer with ~12 years in data — from Teradata, Oracle and DataStage to 
 ### 🔧 Open source
 - **[SQLFluff](https://github.com/sqlfluff/sqlfluff)** — contributor to the Snowflake dialect (added `SECRET` statement support, more on the way)
 - **[pyfirstaid](https://github.com/sai-sakalam/pyfirstaid)** — creator · one command to diagnose and fix broken Python environments · on PyPI
-- - **[Ruff](https://github.com/astral-sh/ruff)** — new rule flagging pandas APIs removed in pandas 3.0 *(PR in review)*
+- **[Ruff](https://github.com/astral-sh/ruff)** — new rule flagging pandas APIs removed in pandas 3.0 *(PR in review)*
 
 ### 📄 Research
-- **T-RKG** (IEEE Access, 2026) — regulatory conflict detection across enterprise systems using knowledge graphs
+- **T-RKG: regulatory conflict detection across enterprise systems using knowledge graphs** — *IEEE Access, 2026*
+  [Paper](https://ieeexplore.ieee.org/document/11675805) · [DOI](https://doi.org/10.1109/ACCESS.2026.3729794) · [Code](https://github.com/kpulagam/T-RKG) · [Interactive Explorer](https://sai-sakalam.github.io/T-RKG/)
 
 ### 🧭 Currently exploring
 - Agentic AI and LLMs for data engineering
